@@ -1,4 +1,4 @@
-package com.example;
+/*package com.example;
 
 import javax.jws.WebService;
 
@@ -12,3 +12,4 @@ public class ImplJmsWebService implements JmsWebService {
 	}
 
 }
+*/
