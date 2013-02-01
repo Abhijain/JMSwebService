@@ -1,4 +1,4 @@
-/*package com.example;
+package com.example;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;
@@ -14,4 +14,3 @@ public interface JmsWebService {
 
 
 }
-*/
